@@ -12,7 +12,7 @@
 	<div id="page" class="site">
 		<header id="masthead" class="site-header" role="banner">
 			<h1><?php echo get_bloginfo( 'name' ); ?></h1>
-			<p><?php echo get_bloginfo( 'description' ); ?></p>
+			<p><?php echo get_bloginfo( 'description' ); ?></p> - test
 		</header><!-- #masthead -->
 
 	</div>
