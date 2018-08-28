@@ -11,8 +11,8 @@
 <body>
 	<div id="page" class="site">
 		<header id="masthead" class="site-header" role="banner">
-			<h1>Ongles et beauté</h1>
-			<h2>Prochainement, votre nouvel institut de beauté à Sablé sur Sarthe</h2>
+			<h1><?php echo get_bloginfo( ‘name’ ); ?></h1>
+			<p><?php echo get_bloginfo( ‘description’ ); ?></p>
 		</header><!-- #masthead -->
 
 	</div>
